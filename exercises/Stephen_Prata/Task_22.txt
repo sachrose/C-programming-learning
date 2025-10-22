@@ -1,0 +1,4 @@
+This file contains:
+- 4 lines of text
+- Various punctuation, spaces
+- And numbers like 123
