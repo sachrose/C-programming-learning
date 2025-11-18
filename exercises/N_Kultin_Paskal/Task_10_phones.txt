@@ -1,0 +1,12 @@
+Ivanov
+Ivan
+123-45-67
+Petrova
+Maria
+987-65-43
+Sidorov
+Alex
+555-44-33
+Kozlov
+Fedr
+623-12-45
